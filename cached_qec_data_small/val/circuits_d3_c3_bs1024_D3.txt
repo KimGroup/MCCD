@@ -1,0 +1,40 @@
+===CIRCUIT T3===
+HY
+HI
+ZH
+===CIRCUIT T3===
+YX
+ZH
+IX
+===CIRCUIT T3===
+IH
+ZH
+XI
+===CIRCUIT T3===
+IY
+YY
+ZY
+===CIRCUIT T3===
+YI
+HZ
+IH
+===CIRCUIT T3===
+HI
+YH
+IY
+===CIRCUIT T3===
+II
+ZY
+HH
+===CIRCUIT T3===
+IZ
+IZ
+YY
+===CIRCUIT T3===
+YZ
+YI
+XI
+===CIRCUIT T3===
+YZ
+IY
+XY

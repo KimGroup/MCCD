@@ -1,0 +1,80 @@
+===CIRCUIT T3===
+ZI
+II
+XZ
+ZH
+YX
+ZI
+ZY
+===CIRCUIT T3===
+YH
+HH
+YY
+IZ
+ZZ
+ZY
+YI
+===CIRCUIT T3===
+YH
+YH
+YY
+YY
+XI
+XY
+ZY
+===CIRCUIT T3===
+ZY
+YY
+YZ
+YI
+HI
+YH
+XH
+===CIRCUIT T3===
+HZ
+YY
+IH
+ZH
+HH
+IX
+IH
+===CIRCUIT T3===
+YY
+IY
+YY
+XI
+XX
+XZ
+YI
+===CIRCUIT T3===
+II
+XZ
+YX
+II
+ZX
+HH
+IX
+===CIRCUIT T3===
+XI
+YZ
+YY
+YY
+ZZ
+XY
+XY
+===CIRCUIT T3===
+IY
+ZY
+ZZ
+HZ
+HI
+XY
+YZ
+===CIRCUIT T3===
+XY
+IX
+ZI
+IZ
+IY
+XH
+II

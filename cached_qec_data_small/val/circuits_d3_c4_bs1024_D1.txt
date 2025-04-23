@@ -1,0 +1,30 @@
+===CIRCUIT T4===
+HX
+10
+===CIRCUIT T4===
+YZ
+01
+===CIRCUIT T4===
+HX
+10
+===CIRCUIT T4===
+XY
+01
+===CIRCUIT T4===
+ZI
+10
+===CIRCUIT T4===
+HH
+10
+===CIRCUIT T4===
+XI
+10
+===CIRCUIT T4===
+HX
+10
+===CIRCUIT T4===
+ZI
+01
+===CIRCUIT T4===
+YY
+01

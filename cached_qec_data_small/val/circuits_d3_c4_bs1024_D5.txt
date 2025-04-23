@@ -1,0 +1,110 @@
+===CIRCUIT T4===
+ZX
+01
+XH
+10
+ZZ
+10
+HX
+01
+YI
+01
+===CIRCUIT T4===
+ZX
+10
+ZZ
+01
+IZ
+01
+HY
+01
+HX
+10
+===CIRCUIT T4===
+II
+01
+ZH
+10
+ZI
+10
+XI
+01
+HH
+10
+===CIRCUIT T4===
+HY
+10
+IH
+01
+ZZ
+01
+IZ
+01
+IZ
+10
+===CIRCUIT T4===
+ZZ
+01
+ZX
+10
+HI
+10
+YI
+10
+YY
+01
+===CIRCUIT T4===
+HZ
+10
+HZ
+10
+HH
+01
+ZY
+01
+IX
+01
+===CIRCUIT T4===
+ZX
+01
+ZX
+10
+ZI
+10
+HZ
+10
+XI
+10
+===CIRCUIT T4===
+XX
+10
+XI
+01
+XY
+01
+YH
+01
+IY
+01
+===CIRCUIT T4===
+ZY
+01
+IH
+10
+HY
+01
+IZ
+01
+ZZ
+10
+===CIRCUIT T4===
+ZI
+10
+IX
+01
+YX
+10
+XI
+10
+II
+10
